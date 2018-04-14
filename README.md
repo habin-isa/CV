@@ -79,10 +79,15 @@ Experience
 
 **Charter Projects**(2015 - 2016)
 *Design and Admin Assistant*
+
 High-end architecture firm, creating client packages, website design and newsletter design
+
 **Fashion Babylon**(2013 - 2015)
 *Sub-editor and Photography Assistant*
+
 An online fashion magazine working with many freelance writers and polishing articles. Worked at London Fashion Week four times in helping the company prepare and to capture street-style shots
+
 **Alice Studios**(2012 - 2013)
 *Photography Assistant*
+
 A fashion photography studio, promoting photography packages and assisting with lighting and setting up equipment
