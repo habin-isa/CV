@@ -1,12 +1,12 @@
-Habin Isabelle Kim
+**Habin Isabelle Kim**
 
-A creative and enthusiastic sculptor, looking to make a change in the world of digital arts.
+A creative and enthusiastic back-end web developer working with Ruby and JavaScript. Artistically trained and looking to make a change in the world of digital arts!
 
 I recently graduated with a First Class honours in Sculpture, where I made kinetic installations using electronics - enter coding! I quickly became compelled by the creative possibilities of code, and my problem-solving skills helped this process immensely.
 
 I am currently doing a 16 week coding bootcamp at Makers Academy. I am excited to gain a whole new skillset in back-end programming and hopefully to take on a career in the London tech scene!
 
-Skills
+**Skills**
 
 Initiative
 
@@ -19,9 +19,8 @@ I am always open to trying new creative formats, perhaps this is because I am gr
 Attention to Detail
 
 I am able to be thorough and accurate when achieving tasks. The nature of building (with many works being huge health and safety risks) means that detail is of the utmost importance. I always endeavour to have a calm and steady attitude towards problem solving and checking work. Perhaps this is where my OCD kicks in!
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-Education
+**Education**
 
 Makers Academy (March 2018 - July 2018)
 
@@ -51,7 +50,7 @@ Kingston University (September 2012 - May 2013)
 - Distorted video projections and sound installations
 - Printmaking extraordinaire - Screen printed, lithography and etching
 
-Features and shows
+**Features and shows**
 
 - 'Brighton Graduate show' - 2017 - 'Sinking the Berg'
   Award-winning digital work - a floor to ceiling installation using Arduino's, linear actuators, perspex, steel and a 4704 litre tank of black liquid
@@ -60,14 +59,14 @@ Features and shows
 - 'BYSSO' - 2015 - "Ctrl - Part I and II"
   A breakdown of the self-taught need for control within OCD - Wall-based latex and peroxide prints and a sculpture using latex and steel
 
-Graphic Design commissions
+**Graphic Design commissions**
 
 - DEAD WAX SOCIAL - 2017 - 12" Vinyl sleeve menu design and promotional banners for a records only bar
 - WAX WORK - 2017 - Full branding and posters for a bring-your-own vinyl night
 - Oki-Nami - 2017 - Menu design and branding, Japanese themed
 - Neighbourhood - 2016 - Menu design, branding and photography for a speak-easy restaurant
 
-Technical Skills
+**Technical Skills**
 
 - Adobe Creative suite: Proficient in Photoshop CC and InDesign CS6
 - Arduino's and Raspberry Pi's - with confidence in electrical wiring
@@ -75,19 +74,29 @@ Technical Skills
 - Languages: Fluent in English and Korean
 
 
-Experience
+**Experience**
 
-**Charter Projects**(2015 - 2016)
+**Charter Projects** (2015 - 2016)
+
 *Design and Admin Assistant*
 
 High-end architecture firm, creating client packages, website design and newsletter design
 
-**Fashion Babylon**(2013 - 2015)
+**Fashion Babylon** (2013 - 2015)
+
 *Sub-editor and Photography Assistant*
 
 An online fashion magazine working with many freelance writers and polishing articles. Worked at London Fashion Week four times in helping the company prepare and to capture street-style shots
 
 **Alice Studios**(2012 - 2013)
+
 *Photography Assistant*
 
 A fashion photography studio, promoting photography packages and assisting with lighting and setting up equipment
+
+**Interests**
+
+- Building - Little robotics with arduinos and woodwork
+- Skiing, Running, Tennis - Keeping active is important to me
+- Cooking - Obsessive over sweet treats whether it's candying orange peel or making banoffee pie
+- Sound Art and going to galleries - The Curve and Victoria Miro being favourites
