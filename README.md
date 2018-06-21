@@ -2,6 +2,8 @@
 
 An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a 16-week coding bootcamp where I embraced XP values, working with Ruby, JavaScript and Java in an agile environment. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am eager for a working opportunity to keep learning and make a change in the creative world of software!
 
+![Alt text](https://github.com/habin-isa/CV/blob/master/Habin%20High%20res%20colour%20-16.jpg "Sinking the Berg, 2017")
+
 **Skills**
 
 Initiative
