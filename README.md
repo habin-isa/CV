@@ -1,16 +1,12 @@
 **Habin Isabelle Kim**
 
-A creative and enthusiastic back-end web developer working with Ruby and JavaScript. Artistically trained and looking to make a change in the world of digital arts!
-
-I recently graduated with a First Class honours in Sculpture, where I made kinetic installations using electronics - enter coding! I quickly became compelled by the creative possibilities of code, and my problem-solving skills helped this process immensely.
-
-I am currently doing a 16 week coding bootcamp at Makers Academy. I am excited to gain a whole new skillset in back-end programming and hopefully to take on a career in the London tech scene!
+An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a 16-week coding bootcamp where I embraced XP values, working with Ruby, JavaScript and Java in an agile environment. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am eager for a working opportunity to keep learning and make a change in the creative world of software!
 
 **Skills**
 
 Initiative
 
-I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on digitalising my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets!
+I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets!
 
 Creative
 
@@ -27,13 +23,15 @@ Makers Academy (March 2018 - July 2018)
 - 16 week Coding bootcamp
 - Diving in with understanding how to code
 - Independent and motivated learner
-- A big believer of peer-programming
+- A big believer of pair-programming
 - Learning how to be wrong and the process of problem-solving
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Java, JavaScript
+- RSpec, Jasmine, Nightwatch, Capybara, jUnit
+- React, HTML, CSS
+- Springboot, Sinatra
 
 The University of Brighton (September 2013 - June 2017)
 
@@ -41,7 +39,7 @@ The University of Brighton (September 2013 - June 2017)
 - Award of Excellence from Seoul National University
   June 2017, a bursary prize for my graduate show piece
 - Building kinetic and immersive installations
-  Using Arduino's, Raspberry pi's, sound and light
+  Using Arduino's, Raspberry pi's, sound and light 
 - Quite the pro in woodwork, metalwork, latex casting and plastics
 
 Kingston University (September 2012 - May 2013)
@@ -73,30 +71,18 @@ Kingston University (September 2012 - May 2013)
 - Building: Welding, Plasma-cutting, Laser-cutting, Bandsaw, Hacksaw, Vacuum former, Festool saw
 - Languages: Fluent in English and Korean
 
-
 **Experience**
 
 **Charter Projects** (2015 - 2016)
 
-*Design and Admin Assistant*
+*Design and Admin Assistant (Part-time)*
 
 High-end architecture firm, creating client packages, website design and newsletter design
-
-**Fashion Babylon** (2013 - 2015)
-
-*Sub-editor and Photography Assistant*
-
-An online fashion magazine working with many freelance writers and polishing articles. Worked at London Fashion Week four times in helping the company prepare and to capture street-style shots
-
-**Alice Studios**(2012 - 2013)
-
-*Photography Assistant*
-
-A fashion photography studio, promoting photography packages and assisting with lighting and setting up equipment
 
 **Interests**
 
 - Building - Little robotics with arduinos and woodwork
 - Skiing, Running, Tennis - Keeping active is important to me
 - Cooking - Obsessive over sweet treats whether it's candying orange peel or making banoffee pie
-- Sound Art and going to galleries - The Curve and Victoria Miro being favourites
+- Galleries - The Curve and Victoria Miro being favourites
+- Sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
