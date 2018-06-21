@@ -39,7 +39,7 @@ The University of Brighton (September 2013 - June 2017)
 - Award of Excellence from Seoul National University
   June 2017, a bursary prize for my graduate show piece
 - Building kinetic and immersive installations
-  Using Arduino's, Raspberry pi's, sound and light 
+  Using Arduino's, Raspberry pi's, sound and light
 - Quite the pro in woodwork, metalwork, latex casting and plastics
 
 Kingston University (September 2012 - May 2013)
@@ -86,3 +86,9 @@ High-end architecture firm, creating client packages, website design and newslet
 - Cooking - Obsessive over sweet treats whether it's candying orange peel or making banoffee pie
 - Galleries - The Curve and Victoria Miro being favourites
 - Sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
+
+**Contact**
+
+- Email: habinkim@gmail.com
+- Phone: 07921502765
+- Website: http://btnlive.wixsite.com/habinkim
