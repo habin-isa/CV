@@ -46,10 +46,10 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 #### The University of Brighton (September 2013 - June 2017)
 
 - Fine Art Sculpture (BA) - First class honours
-- Award of Excellence from Seoul National University
-  June 2017, a bursary prize for my graduate show piece
+- Award of Excellence from Seoul National University, 2017
 - Building kinetic and immersive installations (wood, metals, latex, plastics)
   Using Arduino's, Raspberry pi's, sound and light - Dabbled in C++
+- [Artist website](https://habin-isa.com)
 
 
 ## Features
