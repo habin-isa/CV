@@ -21,16 +21,15 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 
 #### Initiative
 
-
 I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets!
 
 #### Creative
 
-I am always open to trying new creative formats, perhaps this is because I am greedy to master as much as I can. As a sculptor I love to build, I always go large with installations (perhaps short person syndrome), creating immersive experiences using electronics, sound and light. I am digitally very capable, I take on graphic design commissions and have an understanding behind aesthetics.
+I am always open to trying new creative formats, perhaps this is because I am greedy to master as much as I can. As a sculptor I love to build, I always go large with installations (perhaps short person syndrome), creating immersive experiences using electronics, sound and light. I am digitally very capable, I take on graphic design commissions and have an understanding behind aesthetics. I am able to see the bigger picture when visualising products, allowing me to join the relationship between concept and code.
 
 #### Attention to Detail
 
-I am able to be thorough and accurate when achieving tasks. The nature of building (with many works being huge health and safety risks) means that detail is of the utmost importance. I always endeavour to have a calm and steady attitude towards problem solving and checking work. Perhaps this is where my OCD kicks in!
+I am able to be thorough and accurate when achieving tasks. I am committed to TDD when writing code, this allows me to write clean code and to stick to OOP and DDD principles. Taking small steps and making incremental changes is one of the most valuable skills that I have developed at Makers. Being patient in this process has benefited how I am able to de-bug code and structure functionalities when writing both front and back-end programmes.
 
 ## Education
 
@@ -75,7 +74,7 @@ I was given a lot of responsibility in this role, responsible for work presented
 - Cooking - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
 - Galleries - The Curve and Victoria Miro being favourites
 - Sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
-- Building - Small projects with arduino's and woodwork - given the opportunity I would set up my own outdoor workshop in Cali
+- Building - Small robotics projects and household woodwork - given the opportunity I would set up my own outdoor workshop in Cali
 
 ## Details
 
