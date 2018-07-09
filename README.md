@@ -22,7 +22,7 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 
 #### Initiative
 
-I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets! At Makers I used my initiative daily to solve problems when learning new languages.
+I am an independent go-getter. At Makers I used my initiative daily to solve problems when learning new languages. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets!
 
 #### Creative
 
@@ -48,9 +48,8 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 - Fine Art Sculpture (BA) - First class honours
 - Award of Excellence from Seoul National University
   June 2017, a bursary prize for my graduate show piece
-- Building kinetic and immersive installations
+- Building kinetic and immersive installations (wood, metals, latex, plastics)
   Using Arduino's, Raspberry pi's, sound and light - Dabbled in C++
-- Quite the pro in woodwork, metalwork, latex casting and plastics
 
 
 ## Features
@@ -67,7 +66,6 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 Design and Admin Assistant (Part-time)
 
 High-end architecture firm, creating client packages, website design and newsletter design.
-I was given a lot of responsibility in this role, responsible for work presented directly to clients.
 
 ## Interests
 
@@ -82,4 +80,9 @@ I was given a lot of responsibility in this role, responsible for work presented
 - (b. 1994) British South Korean, fluent in English and Korean
 - Email: habinisabellekim@gmail.com
 - Phone: 07921502765
-- [Artist Website](https://habin-isa.com)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/habin-isa/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="https://github.com/habin-isa"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
+<a href="https://habin-isa.com"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
+</p>
