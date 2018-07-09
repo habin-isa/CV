@@ -49,7 +49,7 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 - Award of Excellence from Seoul National University
   June 2017, a bursary prize for my graduate show piece
 - Building kinetic and immersive installations
-  Using Arduino's, Raspberry pi's, sound and light
+  Using Arduino's, Raspberry pi's, sound and light - Dabbled in C++
 - Quite the pro in woodwork, metalwork, latex casting and plastics
 
 
