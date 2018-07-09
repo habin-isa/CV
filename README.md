@@ -84,5 +84,5 @@ High-end architecture firm, creating client packages, website design and newslet
 <p align="center">
 <a href="https://www.linkedin.com/in/habin-isa/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a href="https://github.com/habin-isa"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
-<a href="https://habin-isa.com"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
+<a href="https://habin-isa.com"><img src="https://github.com/habin-isa/CV/blob/master/HIK-logo.png" alt="artist" hspace="50" height="42" width="42"></a>
 </p>
