@@ -22,11 +22,11 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 
 #### Initiative
 
-I am an independent go-getter. At Makers I used my initiative daily to solve problems when learning new languages. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets!
+I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets! At Makers I used my initiative daily to solve problems when learning new languages.
 
 #### Creative
 
-I am always open to trying new creative formats, perhaps this is because I am greedy to master as much as I can. As a sculptor I love to build, I always go large with installations (perhaps short person syndrome), creating immersive experiences using electronics, sound and light. I am digitally very capable, I take on graphic design commissions and have an understanding behind aesthetics. I am able to see the bigger picture when visualising products, allowing me to join the relationship between concept and code, I believe that this makes me a valued team member in group projects.
+I am always open to trying new creative formats. As a sculptor I love to build, I always go large with installations (perhaps short person syndrome), creating immersive experiences using electronics, sound and light. I am digitally very capable, I take on graphic design commissions and have an understanding behind aesthetics. I am able to see the bigger picture when visualising products, allowing me to join the relationship between concept and code, I believe that this makes me a valued team member in group projects.
 
 #### Attention to Detail
 
@@ -47,17 +47,16 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 
 - Fine Art Sculpture (BA) - First class honours
 - Award of Excellence from Seoul National University, 2017
-- Building kinetic and immersive installations (wood, metals, latex, plastics)
-  Using Arduino's, Raspberry pi's, sound and light - Dabbled in C++
+- Immersive installations (wood, metals, latex, plastics, sound) - Dabbled in C++
 - [Artist website](https://habin-isa.com)
 
 
 ## Features
 
 - Shows:
-  I have had many works featured in shows across the years, this has allowed me to practice working with clients and   sticking to short time frames.
+  I have had many works featured in shows across the years, this has allowed me to practice working with clients and working in high-pressure environments.
 - Graphic Design commissions:
-  I am proficient in Photoshop CC and InDesign CS6, I have taken on many graphics commissions in my spare time. Works include vinyl sleeve designs, branding for restaurants and bars and posters for music events and labels.
+  I am proficient in Photoshop CC and InDesign CS6, I have taken on many graphics commissions in my spare time. Works include vinyl sleeve designs, branding for restaurants and bars, and posters for music events and labels.
 
 ## Experience
 
