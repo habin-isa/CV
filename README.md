@@ -9,15 +9,6 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 
 | Title | Description | Development Timeframe | Technologies Used | Development and Deployment Technologies |
 |--|--|--|--|--|
-| [Swift Exit](https://github.com/habin-isa/Angelos) | A 2D, side-scrolling, platform game where you play Hyper Cat, a hungry cat on the hunt for a mouse! | 2 weeks | Javascript, Express | Jasmine, Travis, Heroku |
-| [Bank Tech Test](https://github.com/williampowell92/bank_tech_test) | A CLI application managing bank accounts | 2 Days | Javascript, Node.js | Jasmine |
-| [Gilded Rose](https://github.com/williampowell92/gilded_rose) | An application for managing a mystical shops inventory | 2 Days | Java, Maven | JUnit 4 |
-| [Makers BnB](https://github.com/williampowell92/makers_bnb) | An application for renting and letting rooms | 1 Week | Javascript, Node.js, Express, Sequelize, PostgreSQL, pug, CSS | Jasmine, Cypress |
-|[Chitter Challenge](https://github.com/williampowell92/chitter-challenge) | A web application for submitting and sharing messages between users | 1 Weekend | Ruby, Sinatra, HTML, CSS | RSpec, Capybara |
-
-
-| Title | Description | Development Timeframe | Technologies Used | Development and Deployment Technologies |
-|--|--|--|--|--|
 | [Swift Exit](https://github.com/habin-isa/Angelos) | A distress signal iOS mobile app with a decoy screen, features include a dummy phone call, location and texts | 2 weeks (Group) | Swift, Twillio, XCode Core-libraries, Alamofire | XCTest |
 | [Bank Tech Test](https://github.com/habin-isa/bank_tech) | A CLI application for managing bank transactions | 3 Days (Lone Wolf) | Ruby | RSpec |
 | [Mother Acebook](https://github.com/anderscodes/mother_acebook) | Engineering project based on the basic functionality of Facebook, the most challenging learning curve at Makers | 2 Weeks (Group)| Java, Node, Maven, React, Sprintboot | JUnit, Nightwatch |
