@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Features](#features) | [Experience](#experience) | [Interests](#interests) | [Details](#details) |
 
-An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a coding bootcamp where I embraced XP values and learnt 4 programming languages in the short space of 3 months. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am now eager for the next step - a developer role that allows me to continue learning and to contribute my creativity!
+An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a coding bootcamp where I embraced XP values and learnt 4 programming languages in the short space of 3 months. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am now eager for the next step - a developer role that allows me to continue learning and to contribute my creativity within software!
 
 ![Alt text](https://github.com/habin-isa/CV/blob/master/Habin%20High%20res%20colour%20-16.jpg "Sinking the Berg, 2017")
 ###### Image: 'Sinking the Berg', 2017. Award-winning graduate work - Digital floor-to-ceiling installation.
@@ -15,7 +15,7 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 | [Bank Tech Test](https://github.com/habin-isa/bank_tech) | A CLI application for managing bank transactions | 3 Days (Lone Wolf) | Ruby | RSpec |
 | [Mother Acebook](https://github.com/anderscodes/mother_acebook) | Engineering project based on the basic functionality of Facebook, the most challenging learning curve at Makers | 2 Weeks (Group)| Java, Node, Maven, React, Sprintboot | JUnit, Nightwatch |
 |[Thermosturt](https://github.com/habin-isa/thermostat) | A web application mimic of a thermostat, features include using a city weather API and an exciting visual interface | 1 week (Pairing) | JavaScript | Jasmine |
-|[Sinking the Berg](https://github.com/habin-isa/sinking_the_berg/tree/master) | Code pasted from a digital installation I created in 2017 | 3 weeks (Lone Wolf) | Arduino (C++) | Pre-TDD life (If there ever was one) |
+|[Sinking the Berg](https://github.com/habin-isa/sinking_the_berg/tree/master) | Code from a digital installation from 2017, controlling linear actuators through a 4-ch relay | 3 weeks (Lone Wolf) | Arduino (C++) | Pre-TDD life (If there ever was one) |
 
 ## Skills
 
@@ -71,8 +71,8 @@ High-end architecture firm, creating client packages, website design and newslet
 
 - Skiing, Running, Tennis - Keeping active is important to me
 - Cooking - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
-- Galleries - The Curve and Victoria Miro being favourites
-- Sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
+- Galleries - White Cube and Blain|Southern being favourites
+- Live sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
 - Building - Small robotics projects and household woodwork - given the opportunity I would set up my own outdoor workshop in California
 
 ## Details
