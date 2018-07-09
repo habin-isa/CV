@@ -5,7 +5,7 @@
 An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a coding bootcamp where I embraced XP values and learnt 4 programming languages in the short space of 3 months. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am now eager for the next step - a developer role that allows me to continue learning and to contribute my creativity!
 
 ![Alt text](https://github.com/habin-isa/CV/blob/master/Habin%20High%20res%20colour%20-16.jpg "Sinking the Berg, 2017")
-###### Sinking the Berg, 2017 - Award-winning graduate work - Digital floor-to-ceiling installation.
+###### Image: 'Sinking the Berg', 2017. Award-winning graduate work - Digital floor-to-ceiling installation.
 
 ## Projects
 
@@ -86,7 +86,7 @@ Design and Admin Assistant (Part-time)
 
 High-end architecture firm, creating client packages, website design and newsletter design
 
-#### Interests
+## Interests
 
 - Building - Little robotics with arduinos and woodwork
 - Skiing, Running, Tennis - Keeping active is important to me
