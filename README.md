@@ -1,6 +1,6 @@
 ## Habin Isabelle Kim (habinisabellekim@gmail.com)
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Features](#features) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Features](#features) | [Experience](#experience) | [Interests](#interests) | [Details](#details) |
 
 An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a coding bootcamp where I embraced XP values and learnt 4 programming languages in the short space of 3 months. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am now eager for the next step - a developer role that allows me to continue learning and to contribute my creativity!
 
@@ -55,28 +55,10 @@ I am able to be thorough and accurate when achieving tasks. The nature of buildi
 
 ## Features
 
-#### Shows
-
-- 'Brighton Graduate show' - 2017 - 'Sinking the Berg'
-  Award-winning digital work - a floor to ceiling installation using Arduino's, linear actuators, perspex, steel and a 4704 litre tank of black liquid
-- 'Stretch' - 2016 - "F says I am an anal expulsive"
-  Floor-piece sculpture exploring the Freudian theory of psychosexual stages - Latex and chairs
-- 'BYSSO' - 2015 - "Ctrl - Part I and II"
-  A breakdown of the self-taught need for control within OCD - Wall-based latex and peroxide prints and a sculpture using latex and steel
-
-#### Graphic Design commissions
-
-- DEAD WAX SOCIAL - 2017 - 12" Vinyl sleeve menu design and promotional banners for a records only bar
-- WAX WORK - 2017 - Full branding and posters for a bring-your-own vinyl night
-- Oki-Nami - 2017 - Menu design and branding, Japanese themed
-- Neighbourhood - 2016 - Menu design, branding and photography for a speak-easy restaurant
-
-#### Technical Skills
-
-- Adobe Creative suite: Proficient in Photoshop CC and InDesign CS6
-- Arduino's and Raspberry Pi's - with confidence in electrical wiring
-- Building: Welding, Plasma-cutting, Laser-cutting, Bandsaw, Hacksaw, Vacuum former, Festool saw
-- Languages: Fluent in English and Korean
+- Shows:
+  I have had many works featured in shows across the years, this has allowed me to practice working with clients and   sticking to short time frames.
+- Graphic Design commissions:
+  I am proficient in Photoshop CC and InDesign CS6, I have taken on many graphics commissions in my spare time. Works include vinyl sleeve designs, branding for restaurants and bars and posters for music events and labels.
 
 ## Experience
 
@@ -84,18 +66,20 @@ I am able to be thorough and accurate when achieving tasks. The nature of buildi
 
 Design and Admin Assistant (Part-time)
 
-High-end architecture firm, creating client packages, website design and newsletter design
+High-end architecture firm, creating client packages, website design and newsletter design.
+I was given a lot of responsibility in this role, responsible for work presented directly to clients.
 
 ## Interests
 
-- Building - Little robotics with arduinos and woodwork
 - Skiing, Running, Tennis - Keeping active is important to me
-- Cooking - Obsessive over sweet treats whether it's candying orange peel or making banoffee pie
+- Cooking - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
 - Galleries - The Curve and Victoria Miro being favourites
 - Sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
+- Building - Small projects with arduino's and woodwork - given the opportunity I would set up my own outdoor workshop in Cali
 
-## Contact
+## Details
 
+- (b. 1994) British South Korean, fluent in English and Korean
 - Email: habinisabellekim@gmail.com
 - Phone: 07921502765
 - [Artist Website](https://habin-isa.com)
