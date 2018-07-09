@@ -15,6 +15,7 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 | [Bank Tech Test](https://github.com/habin-isa/bank_tech) | A CLI application for managing bank transactions | 3 Days (Lone Wolf) | Ruby | RSpec |
 | [Mother Acebook](https://github.com/anderscodes/mother_acebook) | Engineering project based on the basic functionality of Facebook, the most challenging learning curve at Makers | 2 Weeks (Group)| Java, Node, Maven, React, Sprintboot | JUnit, Nightwatch |
 |[Thermosturt](https://github.com/habin-isa/thermostat) | A web application mimic of a thermostat, features include using a city weather API and an exciting visual interface | 1 week (Pairing) | JavaScript | Jasmine |
+|[Sinking the Berg](https://github.com/habin-isa/sinking_the_berg/tree/master) | Code pasted from a digital installation I created in 2017 | 3 weeks (Lone Wolf) | Arduino (C++) | Pre-TDD life (If there ever was one) |
 
 ## Skills
 
