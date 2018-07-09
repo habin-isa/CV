@@ -1,4 +1,6 @@
-##Habin Isabelle Kim
+##Habin Isabelle Kim (habinisabellekim@gmail.com)
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Features](#features) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 An enthusiastic and artistically trained Full stack Web developer. I recently graduated from Makers - a coding bootcamp where I embraced XP values and learnt 4 programming languages in the short space of 3 months. Before this, I graduated with a First Class honours in Sculpture, where I made interactive and kinetic installations, powered by code and electronics. I am now eager for the next step - a developer role that allows me to continue learning and to contribute my creativity!
 
@@ -51,7 +53,9 @@ I am able to be thorough and accurate when achieving tasks. The nature of buildi
 - Quite the pro in woodwork, metalwork, latex casting and plastics
 
 
-##Features and shows
+##Features
+
+####Shows
 
 - 'Brighton Graduate show' - 2017 - 'Sinking the Berg'
   Award-winning digital work - a floor to ceiling installation using Arduino's, linear actuators, perspex, steel and a 4704 litre tank of black liquid
@@ -60,14 +64,14 @@ I am able to be thorough and accurate when achieving tasks. The nature of buildi
 - 'BYSSO' - 2015 - "Ctrl - Part I and II"
   A breakdown of the self-taught need for control within OCD - Wall-based latex and peroxide prints and a sculpture using latex and steel
 
-##Graphic Design commissions
+####Graphic Design commissions
 
 - DEAD WAX SOCIAL - 2017 - 12" Vinyl sleeve menu design and promotional banners for a records only bar
 - WAX WORK - 2017 - Full branding and posters for a bring-your-own vinyl night
 - Oki-Nami - 2017 - Menu design and branding, Japanese themed
 - Neighbourhood - 2016 - Menu design, branding and photography for a speak-easy restaurant
 
-##Technical Skills
+####Technical Skills
 
 - Adobe Creative suite: Proficient in Photoshop CC and InDesign CS6
 - Arduino's and Raspberry Pi's - with confidence in electrical wiring
