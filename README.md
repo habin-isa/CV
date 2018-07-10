@@ -8,7 +8,9 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 <img src="https://github.com/habin-isa/CV/blob/master/Habin%20High%20res%20colour%20-16.jpg" width="600" height="400" />
 </p>
 
+<p align="center">
 ###### Image: 'Sinking the Berg', 2017. Award-winning graduate work - Digital floor-to-ceiling installation.
+</p>
 
 ## Projects
 
