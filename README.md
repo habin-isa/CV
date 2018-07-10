@@ -62,7 +62,7 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 
 #### Charter Projects (2015 - 2016)
 
-**Design and Admin Assistant** (Part-time)
+*Design and Admin Assistant* (Part-time)
 
 High-end architecture firm, creating client packages, website design and newsletter design.
 
