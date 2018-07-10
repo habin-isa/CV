@@ -9,7 +9,7 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 </p>
 
 <p align="center">
-###### Image: 'Sinking the Berg', 2017. Award-winning graduate work - Digital floor-to-ceiling installation.
+Image: 'Sinking the Berg', 2017. Award-winning graduate work - Digital floor-to-ceiling installation.
 </p>
 
 ## Projects
