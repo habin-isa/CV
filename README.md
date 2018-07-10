@@ -39,13 +39,13 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 - 16 week Coding bootcamp, learning 4 languages from scratch
 - Pair programming and group Projects
 - OOP, TDD, MVC, DDD, Agile, XP Values
-- Ruby, Java, JavaScript, Swift
+- **Ruby, Java, JavaScript, Swift**
 - RSpec, Jasmine, Nightwatch, Capybara, jUnit
 - React, HTML, CSS, Springboot, Sinatra
 
 #### The University of Brighton (September 2013 - June 2017)
 
-- **Fine Art Sculpture (BA) - First class honours**
+- **Fine Art Sculpture (BA)** - *First class honours*
 - Award of Excellence from Seoul National University, 2017
 - Immersive installations (wood, metals, latex, plastics, sound) - Dabbled in C++
 - [Artist website](https://habin-isa.com)
@@ -68,7 +68,7 @@ High-end architecture firm, creating client packages, website design and newslet
 
 ## Interests
 
-- **Skiing, Running, Tennis** - Keeping active is important to me
+- **Skiing, Running, Table tennis** - Keeping active is important to me
 - **Cooking** - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
 - **Galleries** - White Cube and Blain|Southern being favourites
 - **Live sound art and production** - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
@@ -77,7 +77,7 @@ High-end architecture firm, creating client packages, website design and newslet
 ## Details
 
 - (b. 1994) British South Korean, fluent in English and Korean
-- Email: habinisabellekim@gmail.com
+- Email: **habinisabellekim@gmail.com**
 - Phone: 07921502765
 
 <p align="center">
