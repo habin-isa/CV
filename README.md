@@ -22,15 +22,15 @@ An enthusiastic and artistically trained Full stack Web developer. I recently gr
 
 #### Initiative
 
-I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets! At Makers I used my initiative daily to solve problems when learning new languages.
+I am an independent go-getter. During my degree I outsourced advice to local workshop collectives and digital artists from the UK for help on using robotics in my installations. There was no opportunity in the Fine Arts department to try out electronic mediums, but I used this as a positive to connect with local engineers, artists and geniuses. I taught myself how to use open format programming devices and electrical wiring. With my new found skills I was able to bring my installations alive. It's a beautiful process to write code and see it tested in real life, in the form of gigantic metal sheets! At Makers I used my initiative daily to solve problems when learning new languages, through knowing where to search and the right questions to ask.
 
 #### Creative
 
-I am always open to trying new creative formats. As a sculptor I love to build, I always go large with installations (perhaps short person syndrome), creating immersive experiences using electronics, sound and light. I am digitally very capable, I take on graphic design commissions and have an understanding behind aesthetics. I am able to see the bigger picture when visualising products, allowing me to join the relationship between concept and code, I believe that this makes me a valued team member in group projects.
+I am always open to trying new creative formats. As a sculptor I love to build, I always go large with installations (perhaps short person syndrome). I am digitally very capable, and I take on graphic design commissions and have an understanding behind aesthetics, my experience with design tools adds to my skillset when doing front-end development. I am able to see the bigger picture when visualising products, allowing me to join the relationship between concept and code, I believe that this makes me a valued team member in group projects.
 
 #### Attention to Detail
 
-I am able to be thorough and accurate when achieving tasks. I am committed to TDD when writing code, this allows me to write clean code and to stick to OOP and DDD principles. Taking small steps and making incremental changes is one of the most valuable skills that I have developed at Makers. Being patient in this process has benefited how I am able to de-bug code and structure functionalities when writing both front and back-end programmes. This attention to detail was especially important in learning new frameworks such as Springboot and Sinatra, in deciphering exactly what they could do for you.
+I am able to be thorough and accurate when achieving tasks. I am committed to TDD when writing code, this allows me to write clean code and to stick to OOP and DDD principles. Taking small steps and making incremental changes is one of the most valuable skills that I have developed at Makers. Being patient in this process has benefited how I am able to de-bug code and structure functionalities when writing both front and back-end. This attention to detail was especially important in learning new frameworks such as Springboot and Sinatra, in deciphering exactly what they could do for you.
 
 ## Education
 
@@ -54,9 +54,9 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 ## Features
 
 - Shows:
-  I have had many works featured in shows across the years, this has allowed me to practice working with clients and working in high-pressure environments.
+  I have had many works featured in shows across the years, this has allowed me to practice working with clients, working in high-pressure environments and adapting to new spaces.
 - Graphic Design commissions:
-  I am proficient in Photoshop CC and InDesign CS6, I have taken on many graphics commissions in my spare time. Works include vinyl sleeve designs, branding for restaurants and bars, and posters for music events and labels.
+  I am proficient in Photoshop CC and InDesign CS6, I have taken on many graphics commissions in my spare time. Works include vinyl sleeve designs, branding for restaurants and bars, and posters for music events and labels. References for designs available upon request.
 
 ## Experience
 
