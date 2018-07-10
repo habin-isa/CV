@@ -45,7 +45,7 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 
 #### The University of Brighton (September 2013 - June 2017)
 
-- Fine Art Sculpture (BA) - First class honours
+- **Fine Art Sculpture (BA) - First class honours**
 - Award of Excellence from Seoul National University, 2017
 - Immersive installations (wood, metals, latex, plastics, sound) - Dabbled in C++
 - [Artist website](https://habin-isa.com)
@@ -53,26 +53,26 @@ I am able to be thorough and accurate when achieving tasks. I am committed to TD
 
 ## Features
 
-- Shows:
+- **Shows:**
   I have had many works featured in shows across the years, this has allowed me to practice working with clients, working in high-pressure environments and adapting to new spaces.
-- Graphic Design commissions:
+- **Graphic Design commissions:**
   I am proficient in Photoshop CC and InDesign CS6, I have taken on many graphics commissions in my spare time. Works include vinyl sleeve designs, branding for restaurants and bars, and posters for music events and labels. References for designs available upon request.
 
 ## Experience
 
 #### Charter Projects (2015 - 2016)
 
-Design and Admin Assistant (Part-time)
+**Design and Admin Assistant** (Part-time)
 
 High-end architecture firm, creating client packages, website design and newsletter design.
 
 ## Interests
 
-- Skiing, Running, Tennis - Keeping active is important to me
-- Cooking - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
-- Galleries - White Cube and Blain|Southern being favourites
-- Live sound art and production - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
-- Building - Small robotics projects and household woodwork - given the opportunity I would set up my own outdoor workshop in California
+- **Skiing, Running, Tennis** - Keeping active is important to me
+- **Cooking** - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
+- **Galleries** - White Cube and Blain|Southern being favourites
+- **Live sound art and production** - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
+- **Building** - Small robotics projects and household woodwork - given the opportunity I would set up my own outdoor workshop in California
 
 ## Details
 
