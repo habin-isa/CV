@@ -68,11 +68,11 @@ High-end architecture firm, creating client packages, website design and newslet
 
 ## Interests
 
-- **Skiing, Running, Table tennis** - Keeping active is important to me
-- **Cooking** - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
-- **Galleries** - White Cube and Blain|Southern being favourites
-- **Live sound art and production** - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
-- **Building** - Small robotics projects and household woodwork - given the opportunity I would set up my own outdoor workshop in California
+- *Skiing, Running, Table tennis* - Keeping active is important to me
+- *Cooking* - Obsessive over sweet treats whether it's candying orange peel or making Korean food!
+- *Galleries* - White Cube and Blain|Southern being favourites
+- *Live sound art and production* - Usually at the Barbican or Cafe OTO, recently experimented with ixiLANG and SuperCollider
+- *Building* - Small robotics projects and household woodwork - given the opportunity I would set up my own outdoor workshop in California
 
 ## Details
 
